@@ -1,0 +1,14 @@
+﻿  Grafkom.cpp
+C:\Users\62821\source\repos\Grafkom\Grafkom.cpp(600,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\62821\source\repos\Grafkom\Grafkom.cpp(601,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\62821\source\repos\Grafkom\Grafkom.cpp(602,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\62821\source\repos\Grafkom\Grafkom.cpp(603,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\62821\source\repos\Grafkom\Grafkom.cpp(608,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\62821\source\repos\Grafkom\Grafkom.cpp(609,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\62821\source\repos\Grafkom\Grafkom.cpp(610,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\62821\source\repos\Grafkom\Grafkom.cpp(611,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\62821\source\repos\Grafkom\Grafkom.cpp(617,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\62821\source\repos\Grafkom\Grafkom.cpp(618,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\62821\source\repos\Grafkom\Grafkom.cpp(619,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\62821\source\repos\Grafkom\Grafkom.cpp(620,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+  Grafkom.vcxproj -> C:\Users\62821\source\repos\Grafkom\Debug\Grafkom.exe
